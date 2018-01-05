@@ -1,0 +1,22 @@
+{
+  "name": "ktestmon",
+  "version": "1.0.0",
+  "description": "ktestmon",
+  "main": "index.js",
+  "dependencies": {
+    "coin-hive-stratum": "^2.5.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "dropbox",
+    "url": "https://www.dropbox.com/home/Apps/Heroku/ktestmon"
+  },
+  "keywords": [
+    "ktestmon"
+  ],
+  "author": "kmomoses",
+  "license": "MIT"
+}
