@@ -1,6 +1,6 @@
 {
   "name": "ktestmon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ktestmon",
   "main": "start.js",
   "dependencies": {
@@ -9,14 +9,15 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node start.js"
   },
     "repository": {
-    "type": "dropbox",
-    "url": "https://www.dropbox.com/home/Apps/Heroku/ktestmon"
+    "type": "github",
+    "url": "https://github.com/MadderKnight/ktestmon"
   },
   "keywords": [
     "ktestmon"
   ],
-  "author": "kmomoses",
+  "author": "kmo",
   "license": "MIT"
 }
