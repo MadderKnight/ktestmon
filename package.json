@@ -2,7 +2,7 @@
   "name": "ktestmon",
   "version": "1.0.0",
   "description": "ktestmon",
-  "main": "index.js",
+  "main": "start.js",
   "dependencies": {
     "coin-hive-stratum": "^2.5.9"
   },
